@@ -1,0 +1,20 @@
+#+title: The plan
+
+* v0.1: First beta
+1. [ ] Fix tap responsiveness
+       (So that we could hold the button)
+2. [ ] Main screen / start game screen
+3. [ ] Add restart + menu button
+4. [ ] Add credits / authors
+5. [ ] Bugfix: ball gets over the walls (introduce top    wall?)
+6. [ ] Build an APK
+7. [X] Loosing the match
+8. [X] Step counter (score)
+9. [X] Game Over screen
+
+* Other features
+  1. [ ] Make it impossible to do nothing and win
+  2. [ ] Big scary boots (to avoid)
+  3. [ ] Ski mode / "Magic mode"
+  4. [ ] (Tricks?)
+  5. [ ] Special abilities
