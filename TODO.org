@@ -1,12 +1,13 @@
 #+title: The plan
 
 * v0.1: First beta
-1. [ ] Fix tap responsiveness
+1. [X] Fix tap responsiveness
        (So that we could hold the button)
 2. [ ] Main screen / start game screen
-3. [ ] Add restart + menu button
+3. [X] Add restart
+4. [ ] menu button
 4. [ ] Add credits / authors
-5. [ ] Bugfix: ball gets over the walls (introduce top    wall?)
+5. [X] Bugfix: ball gets over the walls (introduce top    wall?)
 6. [ ] Build an APK
 7. [X] Loosing the match
 8. [X] Step counter (score)
